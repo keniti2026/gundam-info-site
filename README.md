@@ -8,7 +8,7 @@
 
 https://keniti2026.github.io/gundam-info-site/
 
-（GitHub Pages で `main` ブランチ直下 `/` を公開設定にしています）
+（GitHub Pages で `master` ブランチ直下 `/` を公開設定にしています）
 
 ## ローカルでの確認方法
 
